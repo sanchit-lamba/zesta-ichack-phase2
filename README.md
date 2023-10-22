@@ -1,5 +1,7 @@
 # Team Zesta - Theme Computer Vision for the ICHack2.0 Phase-2 MUJ 
 ## (Problem Statement 2) - Advanced Autonomous Vehicle(AV) Self Driving System
+![image_of_the_project](https://github.com/sanchit-lamba/zesta-ichack-phase2/blob/main/readme_img.png?raw=true)
+---
 #### Technolgies/Softwares/Non-Standard libraries used: 
    - CARLA (Open Source AV Simulator)
    - Keras (To implement Deep Learning Models)
@@ -11,4 +13,4 @@
 - [Sanchit Lamba](https://github.com/sanchit-lamba)
 - [Divit Mittal](https://github.com/DivitMittal) 
 
-### [Video presentation, Document explaining the implementation and the codebase (Gdrive upload, because of 25MiB size limit on github)](https://drive.google.com/drive/folders/1te0HDyyQaOI47RANxhuFZEUii8KMuGsd?usp=share_link)
+### [Video presentation & a document explaining the implementation with the codebase (Gdrive upload, because of 25MiB size limit on github)](https://drive.google.com/drive/folders/1te0HDyyQaOI47RANxhuFZEUii8KMuGsd?usp=share_link)
