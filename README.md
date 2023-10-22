@@ -1,5 +1,5 @@
-# Zesta ICHack drowsiness-detection
-Drowsiness detector made for the ichack 2023 organised by ieee at muj by 
+# Zesta ICHack Autonomous Driving model
+Autonomous Driving made for the ichack 2023 organised by ieee at muj by 
 - [Sanchit Lamba](https://github.com/sanchit-lamba)
 - [Divit Mittal](https://github.com/DivitMittal) 
 ### 
